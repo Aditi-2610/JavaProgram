@@ -1,0 +1,6 @@
+STATUS,PRIORITY,DEADLINE,TASK_NAME,ASSIGNEE,DESCRIPTION,DELIVERABLE,%DONE,FIXED_COST,EST_HRS,ACTUAL_HRS
+Project_Name,,,,,,,38%,$1640.00,55,56
+On_Hold,High,9/9/17,Task,,Details_1,,100%,$200.00,30,25
+Not_Yet_Started,Low,9/10/17,Task,,Details_2,,50%,$600.00,11,10
+In_Progress,Medium,9/11/17,Task,,Details_3,,0%,$800.00,12,18
+Complete,Medium,9/12/17,Task,,Details_4,,0%,$40.00,2,3
